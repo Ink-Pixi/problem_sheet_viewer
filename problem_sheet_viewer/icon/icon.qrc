@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="icon">
+    <file>PS_Icon.ico</file>
+    <file>PS_Icon.png</file>
+  </qresource>
+</RCC>
